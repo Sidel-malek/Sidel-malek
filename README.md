@@ -14,18 +14,10 @@ Actuellement étudiante en ingénierie informatique à l'ESI-SBA, je me spécial
 
 ### 🚀 Projets
 
-- **X-Book** (2022)  
-  Application mobile permettant le partage, l'achat, la vente et le don de livres d'occasion entre utilisateurs proches, développée en Java (Android natif) et Firebase.
-
-- **Student Valley** (2023)  
-  Projet en React Native et Django dédié à la gestion de projets « un diplôme-un startup / un diplôme-un brevet », en collaboration avec le Ministère de l'Enseignement Supérieur et de la Recherche Scientifique.
-
-- **Daresni** (2024)  
-  Plateforme de tutorat en ligne pour les enseignants et étudiants (collège et lycée), utilisant une architecture microservices avec Spring Boot et un front-end React Native.
-
-- **Customer Data Analysis in the FMCG Industry** (2024)  
-  Projet d'analyse de données pour segmenter et analyser les comportements des consommateurs dans le secteur des biens de consommation courante, utilisant l'Analyse en Composantes Principales (ACP).
-
+- **X-Book** : Application mobile de partage et vente de livres d'occasion (Java, Firebase)
+- **Student Valley** : Gestion de projets étudiants avec React Native et Django
+- **Daresni** : Plateforme de tutorat en ligne (Spring Boot, React Native)
+- **Analyse de données FMCG** : Analyse des comportements consommateurs (PCA)
 ---
 
 ### 🛠️ Technologies & Compétences
@@ -55,7 +47,7 @@ Actuellement étudiante en ingénierie informatique à l'ESI-SBA, je me spécial
 
 ### 📫 Connectez-vous avec moi
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/malek-sid-el-mrabet-520909222)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malek-sid-el-mrabet-520909222/)
 
 ---
 
