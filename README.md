@@ -2,9 +2,9 @@
 
 ### Étudiante en informatique | Développeur logiciel | Passionnée d'innovation
 
-Actuellement étudiante en ingénierie informatique à l'ESI-SBA, je me spécialise dans les systèmes d'information et le développement web. J'ai un fort intérêt pour la résolution de problèmes complexes et le développement de solutions logicielles innovantes.
+Étudiante en ingénierie informatique à l'ESI-SBA, je me spécialise en systèmes d'information et en développement web. J'aime résoudre des problèmes complexes et créer des solutions logicielles innovantes, avec un intérêt particulier pour la science des données.
 
-- 🔭 Je travaille actuellement sur des projets de développement de plateformes en ligne et d'applications mobiles.
+- 🔭 Je travaille sur des projets de développement de plateformes en ligne et d'applications mobiles.
 - 🌱 J'apprends les **architectures microservices** et le **développement full stack**.
 - 👯 Je cherche à collaborer sur des projets open-source ou académiques.
 - 💬 Demandez-moi des conseils sur **Java, Python, JavaScript** et **Spring Boot**.
@@ -33,15 +33,9 @@ Actuellement étudiante en ingénierie informatique à l'ESI-SBA, je me spécial
 
 ### 🌐 Langues
 
-- **Arabe** (Langue maternelle)
-- **Français** (Compétence professionnelle)
-- **Anglais** (Compétence professionnelle)
-
----
-
-### 📊 Statistiques GitHub
-
-![Malek Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sidel-malek&show_icons=true&theme=radical)
+- **Arabe**
+- **Français** 
+- **Anglais**
 
 ---
 
